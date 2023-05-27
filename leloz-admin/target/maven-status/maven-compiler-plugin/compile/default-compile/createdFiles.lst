@@ -1,0 +1,12 @@
+com\leloz\controller\CategoryController.class
+com\leloz\controller\UserController.class
+com\leloz\controller\LoginController.class
+com\leloz\controller\RoleController.class
+com\leloz\controller\TagController.class
+com\leloz\BlogAdminApplication.class
+com\leloz\config\SecurityConfig.class
+com\leloz\controller\ArticleController.class
+com\leloz\controller\MenuController.class
+com\leloz\filter\JwtAuthenticationTokenFilter.class
+com\leloz\controller\LinkController.class
+com\leloz\controller\UploadController.class
